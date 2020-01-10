@@ -2,7 +2,9 @@ beautifulsoup4==4.8.1
 certifi==2019.9.11
 chardet==3.0.4
 Django==2.1
+gunicorn==19.9.0
 idna==2.8
+python-decouple==3.3
 pytz==2019.3
 requests==2.22.0
 soupsieve==1.9.5
