@@ -19,7 +19,7 @@ pytz = "==2019.3"
 requests = "==2.22.0"
 soupsieve = "==1.9.5"
 unidecode = "==1.1.1"
-urllib3 = "==1.25.7"
+urllib3 = "==1.25.8"
 whitenoise = "==5.0.1"
 
 [requires]
